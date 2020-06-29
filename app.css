@@ -29,12 +29,12 @@ body {
         margin: 3px;
         text-align: center;
         border:2px solid #ccc; 
-        -webkit-border-radius: 10px;
-        border-radius: 10px;
+        -webkit-border-radius: 5px;
+        border-radius: 5px;
         font-size: medium;
         font-family: cursive;
         width: 20px;
-        height: 20x;
+        height: 20px;
     }
 }
 
